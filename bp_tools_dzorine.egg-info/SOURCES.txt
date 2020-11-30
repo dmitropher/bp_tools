@@ -1,0 +1,10 @@
+README.md
+setup.py
+bp_tools/__init__.py
+bp_tools/blueprint_organizer.py
+bp_tools/bp_tools.py
+bp_tools/build_bp_run.py
+bp_tools_dzorine.egg-info/PKG-INFO
+bp_tools_dzorine.egg-info/SOURCES.txt
+bp_tools_dzorine.egg-info/dependency_links.txt
+bp_tools_dzorine.egg-info/top_level.txt
