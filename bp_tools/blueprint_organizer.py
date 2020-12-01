@@ -3,6 +3,8 @@ from itertools import product
 
 from argparse import ArgumentParser
 
+from bp_tools import build_from_file, build_from_params
+
 import json
 
 parser = ArgumentParser()
